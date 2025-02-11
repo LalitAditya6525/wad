@@ -7,14 +7,27 @@ body{
 }
 
 .place1-img{
-    background:url(https://content.jdmagicbox.com/v2/comp/hyderabad/y6/040pxx40.xx40.171010121341.l1y6/catalogue/balloons-unlimited-madhapur-hyderabad-gas-balloon-dealers-2c55gmtv6y.jpg) no-repeat center center/cover;
+    background:url(https://admin.balloonsunlimited.in/media/catalog/product//i/l/il_fullxfull.3240312804_5d7s.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
     background-color: grey;
 }
+.card1-content{
+    padding-top: 140px;
+    padding-bottom: 150px;
+}
 .place2-img{
-    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0rZIvMCn3aD-Q6Xx3Fynzhv8hE9mO9I4RUg&ss) no-repeat center center/cover;
+    background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0rZIvMCn3aD-Q6Xx3Fynzhv8hE9mO9I4RUg&ss);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
     background-color: grey;
 }
 .place3-img{
-    background:url(https://content3.jdmagicbox.com/v2/comp/hyderabad/m9/040pxx40.xx40.180807162854.e4m9/catalogue/stone-core-abids-hyderabad-event-organisers-at86edjgd8.jpg) no-repeat center center/cover;
+    background:url(https://content3.jdmagicbox.com/v2/comp/hyderabad/m9/040pxx40.xx40.180807162854.e4m9/catalogue/stone-core-abids-hyderabad-event-organisers-at86edjgd8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
     background-color: grey;
 }
